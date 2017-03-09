@@ -1,0 +1,6 @@
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\MiddleOutSearch\MiddleOutSearch\bin\Debug\MiddleOutSearch.exe.config
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\MiddleOutSearch\MiddleOutSearch\bin\Debug\MiddleOutSearch.exe
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\MiddleOutSearch\MiddleOutSearch\bin\Debug\MiddleOutSearch.pdb
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\MiddleOutSearch\MiddleOutSearch\obj\Debug\MiddleOutSearch.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\MiddleOutSearch\MiddleOutSearch\obj\Debug\MiddleOutSearch.exe
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\MiddleOutSearch\MiddleOutSearch\obj\Debug\MiddleOutSearch.pdb
